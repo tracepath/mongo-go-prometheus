@@ -1,4 +1,4 @@
-module github.com/globocom/mongo-go-prometheus
+module github.com/tracepath/mongo-go-prometheus
 
 go 1.22
 

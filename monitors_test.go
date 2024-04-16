@@ -6,10 +6,10 @@ import (
 	"testing"
 	"time"
 
-	mongoprom "github.com/globocom/mongo-go-prometheus"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/testutil"
 	"github.com/stretchr/testify/assert"
+	mongoprom "github.com/tracepath/mongo-go-prometheus"
 	"go.mongodb.org/mongo-driver/event"
 )
 
